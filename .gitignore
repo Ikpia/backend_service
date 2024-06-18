@@ -1,0 +1,11 @@
+/customer/.env
+/customer/.env.dev
+
+/products/.env
+/products/.env.dev
+
+/proxy/.env
+/proxy/.env.dev
+
+/shopping/.env
+/shopping/.env.dev
